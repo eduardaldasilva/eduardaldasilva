@@ -7,6 +7,8 @@ Me chamo **Eduarda**, tenho **20 anos** e estou no **3º período** do curso de 
 ## 📫 Como entrar em contato
 
 Você pode me encontrar em: 
+
+
 📧 [E-mail](mailto:contatoeduardadasilva@gmail.com)
 
 🌐 [LinkedIn](https://www.linkedin.com/in/eduarda-lazzaretti-da-silva-a982a126b)
