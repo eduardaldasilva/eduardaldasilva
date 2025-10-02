@@ -4,7 +4,7 @@
    ❤️</p>
 
   <p>
-    Me chamo <strong>Eduarda</strong>, tenho <strong>20 anos</strong> e estou no <strong>4º período</strong> do curso de <strong>Ciência da Computação</strong><br> 
+    Me chamo <strong>Eduarda</strong>, tenho <strong>21 anos</strong> e estou no <strong>5º período</strong> do curso de <strong>Ciência da Computação</strong><br> 
     na <strong>Universidade Federal da Fronteira Sul, Campus Chapecó - SC</strong>.
   </p>
 
